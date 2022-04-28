@@ -2,7 +2,6 @@ import tkinter as tk
 import function_generate as fp
 
 
-
 def start_generate():
     """
     Стартовая функция, которая принимает значения "Смещение по Х", "Смещенеие по У",
