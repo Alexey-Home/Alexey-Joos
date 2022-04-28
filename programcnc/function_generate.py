@@ -2,6 +2,7 @@ import math
 import re
 
 
+
 def generate_nc(text_input="", b_x=0, b_y=0, b_z=0, b_a=0):
     """
     :param text_input: текст управляющей прогрраммы
